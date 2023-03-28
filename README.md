@@ -1,6 +1,12 @@
 [![Travis Build Status](https://api.travis-ci.org/bulletphysics/bullet3.png?branch=master)](https://travis-ci.org/bulletphysics/bullet3)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6sly9uxajr6xsstq)](https://ci.appveyor.com/project/erwincoumans/bullet3)
 
+
+
+# Bullet Robotics
+
+The purpose of this repository is to create a reliabe and esay to use robotics c++ library based on Bullet Physics. The repository is a fork of the original Bullet Physics repository. As you may know, Bullet Physics is a very powerful and fast physics engine. However, it is not very easy to use for robotics. Despite having the pybullet module which is fairly straightfoward to use in python, it is extremely complicated to use its c++ equivalent. This repository aims to change that. 
+
 # Bullet Physics SDK
 
 This is the official C++ source code repository of the Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
